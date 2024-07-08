@@ -1,1 +1,1 @@
-This is a portfolio projetc in Django
+This is a portfolio project in Django
